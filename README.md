@@ -28,8 +28,8 @@ In order to test whether the package works, run:
 ## Acknowledgements
 
 The primary developers are:
-- Tom Van Acker - BASF ([@timmyfaraday](https://github.com/timmyfaraday)) 
-- and Jose Antonio de la O Serna - UANL ([@jadlos](https://github.com/jadlos)).
+- Tom Van Acker - BASF ([@timmyfaraday](https://github.com/timmyfaraday)), and 
+- Jose Antonio de la O Serna - UANL ([@jadlos](https://github.com/jadlos)).
 
 ## License
 
