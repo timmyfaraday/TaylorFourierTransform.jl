@@ -31,7 +31,9 @@ the Hth-harmonic dynamic phasors `ξₕ⁽ᵈ⁾(t) ∈ ℂ, ∀ d ∈ {0,..,D},
 The up-to-Dth derivative of the zeroth-harmonic dynamic phasor 
 `ξ₀⁽ᵈ⁾(t) ∈ ℝ, ∀ d ∈ {0,..,D}` is given by,
 ```math
+\begin{aligned}
     \xi^{(d)}_{0}(t)        =& a^{(d)}_{0}(t)
+\end{aligned}
 ```
 
 ### Zeroth Derivative
