@@ -17,5 +17,5 @@ makedocs(
 )
 
 deploydocs(
-     repo = "github.com/timmyfaraday/TFT.jl.git"
+     repo = "github.com/timmyfaraday/TaylorFourierTransform.jl.git"
 )
