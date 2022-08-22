@@ -16,7 +16,7 @@ The latest stable release of TaylorFourierTransform.jl can be installed using th
 manager:
 
 ```julia
-(v1.6) pkg> add "https://github.com/timmyfaraday/TaylorFourierTransform.jl"
+(v1.6) pkg> add TaylorFourierTransform
 ```
 This package supports Julia v1.6 and later.
 
