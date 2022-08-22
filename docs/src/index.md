@@ -10,7 +10,7 @@ The latest stable release of TaylorFourierTransform.jl can be installed using th
 manager:
 
 ```
-] add "https://github.com/timmyfaraday/TaylorFourierTransform.jl"
+] add TaylorFourierTransform
 ```
 
 In order to test whether the package works, run:
