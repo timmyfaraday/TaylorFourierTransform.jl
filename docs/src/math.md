@@ -133,8 +133,8 @@ anti-rotating phase `φₕ⁽²⁾(t)` are, respectively,
 ```math
 \begin{aligned}
     a_{h}^{(2)}(t)          =& ℜ[2 \, \xi_{h}^{(2)}(t) \, \exp(-j \phi_{h}^{(0)}(t))] + a_{h}^{(0)}(t) \, \phi_{h}^{(1)}(t)^{2} \\
-    \phi_{h}^{(1)}(t)       =& \frac{ℑ[2 \, \xi_{h}^{(2)}(t) \, \exp(-j \phi_{h}^{(0)}(t))] - 2 \, a_{h}^{(1)}(t) \, \phi_{h}^{(1)}(t)}{a^{(0)}_{h}(t)} \\
-    \varphi_{h}^{(1)}(t)    =& \frac{ℑ[2 \, \psi_{h}^{(2)}(t) \, \exp(-j \varphi_{h}^{(0)}(t))] - 2 \, a_{h}^{(1)}(t) \, \varphi_{h}^{(1)}(t)}{a^{(0)}_{h}(t)}.
+    \phi_{h}^{(2)}(t)       =& \frac{ℑ[2 \, \xi_{h}^{(2)}(t) \, \exp(-j \phi_{h}^{(0)}(t))] - 2 \, a_{h}^{(1)}(t) \, \phi_{h}^{(1)}(t)}{a^{(0)}_{h}(t)} \\
+    \varphi_{h}^{(2)}(t)    =& \frac{ℑ[2 \, \psi_{h}^{(2)}(t) \, \exp(-j \varphi_{h}^{(0)}(t))] - 2 \, a_{h}^{(1)}(t) \, \varphi_{h}^{(1)}(t)}{a^{(0)}_{h}(t)}.
 \end{aligned}
 ```
 Note that implicitly this means that `ϕₕ⁽²⁾(t) = φₕ⁽²⁾(t)`.
